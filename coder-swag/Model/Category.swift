@@ -3,7 +3,7 @@
 //  HackerSwag
 //
 //  Created by Kevin Riley on 8/16/18.
-//  Copyright © 2017 rseclabs.com. All rights reserved.
+//  Copyright © 2018 rseclabs.com. All rights reserved.
 //
 import Foundation
 
